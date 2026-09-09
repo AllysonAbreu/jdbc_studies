@@ -1,4 +1,4 @@
-package l18n;
+package jdbc.l18n;
 
 import java.util.Locale;
 import java.util.ResourceBundle;

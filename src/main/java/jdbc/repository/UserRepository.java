@@ -1,7 +1,7 @@
-package repository;
+package jdbc.repository;
 
-import config.ConnectionFactory;
-import model.User;
+import jdbc.config.ConnectionFactory;
+import jdbc.model.User;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
